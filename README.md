@@ -1,4 +1,3 @@
 - Hi, I’m @qwertious!
 - I’m interested in non-euclidean geometry and open-world, do-everything games!
 - I’m currently working with HTML and Javascript with limited knowledge.
-- You can reach me at frankiefrankietablet@gmail.com.
