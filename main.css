@@ -4,6 +4,9 @@
     border: 0;
     font-family: "Cambria", Times, serif;
 }
+html {
+    padding: 0;
+}
 body {
     padding: 0;
 }
