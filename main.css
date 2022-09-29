@@ -4,6 +4,7 @@
     border: 0;
     font-family: "Cambria", Times, serif;
     max-width:100%;
+    box-sizing: border-box;
 }
 h1 {
     font-size: 32px;
