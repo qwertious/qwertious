@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: auto;
     padding: 12px;
     border: 0;
     font-family: "Cambria", Times, serif;
@@ -13,4 +13,8 @@ body {
 }
 h1 {
     font-size: 32px;
+}
+div {
+    text-align: center;
+    
 }
