@@ -3,6 +3,7 @@
     padding: 12px;
     border: 0;
     font-family: "Cambria", Times, serif;
+    max-width:100%;
 }
 html {
     padding: 0;
