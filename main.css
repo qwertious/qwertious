@@ -8,7 +8,9 @@
 }
 h1 {
     font-size: 32px;
-    padding: 12px;
+}
+p {
+    font-size: 16px;
 }
 div {
     text-align: center;    
