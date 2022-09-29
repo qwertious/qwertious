@@ -1,18 +1,13 @@
 * {
     margin: auto;
-    padding: 12px;
+    padding: 0;
     border: 0;
     font-family: "Cambria", Times, serif;
     max-width:100%;
 }
-html {
-    padding: 0;
-}
-body {
-    padding: 0;
-}
 h1 {
     font-size: 32px;
+    padding: 12px;
 }
 div {
     text-align: center;    
