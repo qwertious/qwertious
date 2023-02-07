@@ -1,3 +1,3 @@
 - Hi, I’m @qwertious!
-- I’m interested in non-euclidean geometry and open-world, do-everything games!
-- I’m currently working with HTML and Javascript with limited knowledge.
+- I’m interested in non-euclidean geometry and open-world, do-everything games.
+- Visit my website at www.qwertious.org.
